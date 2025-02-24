@@ -11,8 +11,9 @@
   Anonymous chat with live polls using Express.js and Socket.IO.
 
 ## Skills
-- **Languages**: Java, C++, Python  
-- **Web**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
-- **Databases**: MySQL, MongoDB  
-- **Linux**: Red Hat, system customization  
-- **Tools**: Git
+- **Programming Languages**: C, C++, Java, Python, JavaScript, TypeScript, SQL  
+- **Web Technologies**: HTML, CSS, React.js, Node.js, Express.js, Tailwind CSS  
+- **Databases**: MySQL, MongoDB, SQLite  
+- **Operating Systems**: Linux (Debian), Windows  
+- **Core CS Concepts**: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), Computer Networks (CN)  
+- **Tools & Platforms**: Git, GitHub, VS Code  
