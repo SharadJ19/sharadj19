@@ -1,23 +1,23 @@
 # **Sharad Chandel**  
 **Full-Stack Developer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharadchandel2005/)  
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail)](mailto:sharadchandel2005@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://sharadchandel2005.onrender.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadchandel2005/)  
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharadchandel2005@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logoColor=white)](https://sharadchandel2005.onrender.com/)  
 
 ## **🛠️ Tech Stack**  
 
 ### **Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)  
+![React](https://img.shields.io/badge/React-282A36?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-282A36?style=flat&logo=next.js&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-282A36?style=flat&logo=typescript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-282A36?style=flat&logo=tailwind-css&logoColor=06B6D4)  
 
 ### **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat)  
+![Node.js](https://img.shields.io/badge/Node.js-282A36?style=flat&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-282A36?style=flat&logo=express&logoColor=FFFFFF) ![REST API](https://img.shields.io/badge/REST_API-282A36?style=flat&logoColor=FF79C6)  
 
 ### **Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)  
+![MongoDB](https://img.shields.io/badge/MongoDB-282A36?style=flat&logo=mongodb&logoColor=47A248) ![MySQL](https://img.shields.io/badge/MySQL-282A36?style=flat&logo=mysql&logoColor=4479A1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282A36?style=flat&logo=postgresql&logoColor=4169E1)  
 
 ### **DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6B6B?style=flat)
+![Docker](https://img.shields.io/badge/Docker-282A36?style=flat&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS_EC2-282A36?style=flat&logo=amazon-aws&logoColor=FF9900) ![Git](https://img.shields.io/badge/Git-282A36?style=flat&logo=git&logoColor=F05032) ![CI/CD](https://img.shields.io/badge/CI/CD-282A36?style=flat&logoColor=FF5555)  
 
 ## **🚀 Featured Projects**  
 
@@ -53,13 +53,12 @@
 
 ## **🔍 What I Do Well**  
 ✔ **Full-stack development** - Comfortable working across frontend and backend  
-✔ **Database work** - Experience with both PostgreSQL/MySQL and MongoDB  
-✔ **Getting things working** - I focus on building functional, practical solutions  
-✔ **Keeping things clear** - Clean code and good documentation matter to me  
-✔ **Basic DevOps** - Can handle deployment with Docker and AWS  
+✔ **Database work** - Experience with both SQL and NoSQL  
+✔ **Practical solutions** - Focus on functionality and clean code  
+✔ **Basic DevOps** - Docker, AWS, and CI/CD pipelines  
 
 ## **📩 Let’s Collaborate!**  
 🔹 **Seeking:** Internships, freelance projects, or open-source contributions  
-🔹 **Fun fact:** My code works best when no one asks how it works ! 
+🔹 **Fun fact:** My code works best when no one asks how it works 😉  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sharad104&label=Profile+Views&color=6272a4&label_color=44475a&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Sharad104&label=Profile+Views&color=6272a4&labelColor=282a36&style=flat)
