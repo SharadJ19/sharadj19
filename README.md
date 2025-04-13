@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadchandel2005/)  
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharadchandel2005@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logoColor=white)](https://sharadchandel2005.onrender.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logoColor=white)](https://sharad.is-a.dev/)  
 
 ## **🛠️ Tech Stack**  
 
