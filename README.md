@@ -39,7 +39,7 @@
 ## 🚀 Featured Projects
 
 ### 🛍️ Art & Craft – Fullstack E-commerce Platform  
-🔗 **[Code](https://github.com/SharadJ19/art-and-craft-ecom)**  
+🔗 **[Live Demo](https://artcraft.onrender.com/)** | **[Code](https://github.com/SharadJ19/art-and-craft-ecom)**  
 - Full MERN stack with **MySQL**
 - User Authentication, Cart, Checkout
 - Admin Dashboard, Inventory Control
@@ -50,7 +50,7 @@
 - MERN stack platform connecting users with skilled service providers  
 - JWT Authentication & role-based dashboards (User / Provider)  
 - Booking system, reviews, mobile responsive  
-- 📌 *Payment Integration (Razorpay) Planned*
+- 📌 *Payment Integration Integration Planned*
 
 ### 🌐 JMO Exports – Export Business Website  
 🔗 **[Live Demo](https://jmo.vercel.app/)** | **[Code](https://github.com/SharadJ19/jmo)**  
