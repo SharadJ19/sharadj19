@@ -21,3 +21,5 @@ Hi, I'm Sharad — a full-stack developer focused on building clean and function
 | JMO Exports | 🌍 Company Website | [🔗](https://jmo.vercel.app/) | [🛠️](https://github.com/SharadJ19/jmo) |
 | MDeditor | ✍️ Markdown Editor | [🔗](https://mdeditor.onrender.com/) | [🛠️](https://github.com/SharadJ19/mdeditor) |
 | AI Chatbot | 🤖 Chatbot | [🔗](https://aichatbot-93ke.onrender.com/) | [🛠️](https://github.com/SharadJ19/aichatbot) |
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SharadJ19&label=Profile%20views&color=0e75b6&style=flat)
