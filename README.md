@@ -43,7 +43,7 @@
       <td><strong>ArtCraft</strong></td>
       <td>E-commerce platform</td>
       <td><a href="https://artcraft.onrender.com/">🔗</a></td>
-      <td><a href="https://github.com/SharadJ19/art-and-craft-ecom">🛠</a></td>
+      <td><a href="https://github.com/SharadJ19/artcraft">🛠</a></td>
     </tr>
     <tr>
       <td><strong>HomeEase</strong></td>
