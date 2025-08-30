@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td><strong>HomeEase</strong></td>
-      <td>Property listing marketplace</td>
+      <td>Service booking platform</td>
       <td><a href="https://homeease-oa77.onrender.com/">🔗</a></td>
       <td><a href="https://github.com/SharadJ19/homeease">🛠</a></td>
     </tr>
