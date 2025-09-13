@@ -9,10 +9,13 @@
 
 <p align="center">
   <a href="https://sharad.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sharadchandel2005/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/SharadChandel/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:sharadchandel2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -54,6 +57,21 @@ const sharad = {
   funFact: "I believe the best code is not just functional but also beautiful"
 };
 ```
+
+<div align="center">
+  <a href="https://ibb.co/zHGz3Mmd"><img src="https://i.ibb.co/HpnjcSKZ/Divider.png" alt="Divider" border="0"></a>
+</div>
+
+## 📄 Resumes
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Software_Engineer_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Software Engineer Resume"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1KpXb0k6AXP7qnvs4kZe0g6InFBeSQ7m0/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Backend_Engineer_Resume-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Backend Engineer Resume"/>
+  </a>
+</p>
 
 <div align="center">
   <a href="https://ibb.co/zHGz3Mmd"><img src="https://i.ibb.co/HpnjcSKZ/Divider.png" alt="Divider" border="0"></a>
@@ -253,10 +271,19 @@ const sharad = {
     <img src="https://img.shields.io/badge/Email_sharadchandel2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sharad.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio_sharad.is--a.dev-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio_sharad.is--a.dev-10B981?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sharadchandel2005/">
     <img src="https://img.shields.io/badge/LinkedIn_Sharad_Chandel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/SharadChandel/">
+    <img src="https://img.shields.io/badge/LeetCode_SharadChandel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Software_Engineer_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1KpXb0k6AXP7qnvs4kZe0g6InFBeSQ7m0/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Backend_Engineer_Resume-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
 
