@@ -62,7 +62,7 @@ const sharad = {
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,tailwind,mongodb,postgres,mysql,py,flask,docker,aws,git,figma,postman,vercel&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,react,nextjs,typescript,javascript,nodejs,express,tailwind,mongodb,postgres,mysql,py,flask,docker,aws,git,postman,vercel&perline=9" alt="Tech Stack Icons" />
 </p>
 
 <div align="center">
