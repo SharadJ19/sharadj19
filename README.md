@@ -37,8 +37,7 @@
 
 ```javascript
 const sharad = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  code: ["Java", "JavaScript", "TypeScript"],
   technologies: {
     frontend: {
       js: ["React", "Next.js", "Redux"],
@@ -49,12 +48,12 @@ const sharad = {
       python: ["Flask"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"]
     },
-    devOps: ["Docker", "AWS", "Render", "Vercel"],
-    tools: ["Git", "Postman", "Figma"]
+    devOps: ["Docker", "Linux", "AWS", "Render", "Vercel"],
+    tools: ["Git", "VS Code", "Postman"]
   },
   architecture: ["Microservices", "REST APIs", "SPAs", "PWAs"],
   currentFocus: "Building scalable full-stack applications",
-  funFact: "I believe the best code is not just functional but also beautiful"
+  funFact: "I prefer open-source software and turn to proprietary tools only when required."
 };
 ```
 
