@@ -64,7 +64,7 @@ const sharad = {
 ## 📄 Resumes
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=sharing">
     <img src="https://img.shields.io/badge/Software_Engineer_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Software Engineer Resume"/>
   </a>
   <a href="https://drive.google.com/file/d/1KpXb0k6AXP7qnvs4kZe0g6InFBeSQ7m0/view?usp=sharing">
@@ -278,7 +278,7 @@ const sharad = {
   <a href="https://leetcode.com/u/SharadChandel/">
     <img src="https://img.shields.io/badge/LeetCode_SharadChandel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=sharing">
     <img src="https://img.shields.io/badge/Software_Engineer_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1KpXb0k6AXP7qnvs4kZe0g6InFBeSQ7m0/view?usp=sharing">
