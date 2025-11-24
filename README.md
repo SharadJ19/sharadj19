@@ -52,7 +52,7 @@ const sharad = {
     tools: ["Git", "VS Code", "Postman"]
   },
   architecture: ["Microservices", "REST APIs", "SPAs", "PWAs"],
-  currentFocus: "Building scalable full-stack applications",
+  currentFocus: "Learning Angular and Springboot",
   funFact: "I prefer open-source software and turn to proprietary tools only when required."
 };
 ```
