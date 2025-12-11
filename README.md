@@ -1,4 +1,3 @@
-<!-- GitHub Profile README with premium design -->
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Sharad+Chandel;Software+Engineer" alt="Animated Typing Header" /></a>
   
@@ -13,6 +12,9 @@
   </a>
   <a href="https://www.linkedin.com/in/sharadchandel2005/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/sharadchandel_">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://leetcode.com/u/SharadChandel/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -197,9 +199,6 @@ const sharad = {
       </a>
       <p>Company product showcase website</p>
       <p>
-        <a href="https://jmo.vercel.app/">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
         <a href="https://github.com/SharadJ19/jmo">
           <img src="https://img.shields.io/badge/CODE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
         </a>
@@ -274,6 +273,9 @@ const sharad = {
   </a>
   <a href="https://www.linkedin.com/in/sharadchandel2005/">
     <img src="https://img.shields.io/badge/LinkedIn_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/sharadchandel_">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://leetcode.com/u/SharadChandel/">
     <img src="https://img.shields.io/badge/LeetCode_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
