@@ -267,22 +267,22 @@ const sharad = {
 
 <p align="center">
   <a href="mailto:sharadchandel2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email_sharadchandel2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sharad.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio_sharad.is--a.dev-10B981?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio_-10B981?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sharadchandel2005/">
-    <img src="https://img.shields.io/badge/LinkedIn_Sharad_Chandel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn_-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/SharadChandel/">
-    <img src="https://img.shields.io/badge/LeetCode_SharadChandel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Software_Engineer_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" />
+    <img src="https://img.shields.io/badge/SE_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1KpXb0k6AXP7qnvs4kZe0g6InFBeSQ7m0/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Backend_Engineer_Resume-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" />
+    <img src="https://img.shields.io/badge/BE_Resume-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
 
