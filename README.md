@@ -138,5 +138,5 @@ const sharad = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SharadJ19&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile views" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Footer capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Footer capsule" />
 </div>
