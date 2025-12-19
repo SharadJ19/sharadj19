@@ -1,8 +1,3 @@
-![wallhaven-3qkzqv(1)](https://github.com/user-attachments/assets/4100dd5e-7ccb-4b9b-8e31-1eb23256bbd4)
-
-
-
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Sharad+Chandel;Software+Engineer" alt="Animated Typing Header" /></a>
   
@@ -138,6 +133,8 @@ const sharad = {
   </a>
 </p>
 
+
+![clouds](https://github.com/user-attachments/assets/46cc9a33-4f3d-4151-b856-24b81c91d391)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SharadJ19&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile views" />
