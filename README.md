@@ -38,33 +38,29 @@
   <a href="https://ibb.co/zHGz3Mmd"><img src="https://i.ibb.co/HpnjcSKZ/Divider.png" alt="Divider" border="0"></a>
 </div>
 
-## 🎯 About Me
+## ✨ About Me
 
-<p align="center">
-  <i>Passionate developer crafting digital experiences with modern web technologies</i>
-</p>
+I’m a software engineer who genuinely enjoys **building things 🏗️, breaking them 💥, and then figuring out why they broke 🧠🔍**
 
-```javascript
-const sharad = {
-  code: ["Java", "JavaScript", "TypeScript"],
-  technologies: {
-    frontend: {
-      js: ["React", "Next.js", "Redux"],
-      css: ["Tailwind CSS", "Material UI", "Styled Components"]
-    },
-    backend: {
-      js: ["Node.js", "Express"],
-      python: ["Flask"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL"]
-    },
-    devOps: ["Docker", "Linux", "AWS", "Render", "Vercel"],
-    tools: ["Git", "VS Code", "Postman"]
-  },
-  architecture: ["Microservices", "REST APIs", "SPAs", "PWAs"],
-  currentFocus: "Learning Angular and Springboot",
-  funFact: "I prefer open-source software and turn to proprietary tools only when required."
-};
-```
+I started coding because I always wanted to become a **software engineer 💻🚀**, and somewhere along the way, **curiosity 🤔 turned into a habit 🔁 and learning turned into a lifestyle 🌱📚**
+What keeps me going even when things get frustrating 😤 is a simple mindset 👉 **there’s always something new to learn ✨**
+
+These days, you’ll usually find me 👀👇
+
+* **Building projects** and refining them bit by bit 🛠️✨
+* **Grinding DSA and LeetCode** to sharpen problem-solving muscles 🧩⚙️
+* **Exploring open source** and learning from real-world code 🌍👨‍💻
+* **Debugging weird bugs** that nobody else wants to touch 🐞🔥😄
+* **Thinking about performance, scalability, and system design** 📈🧠🏗️
+
+System design was a big **“aha” moment 💡✨** for me — it’s where everything finally started making sense 🔗🧩
+
+People often describe me as **reliable 🤝**, a **fast learner ⚡**, and **consistent 🔁**, which I value far more than flashy titles 🎖️❌
+I also genuinely enjoy **teaching and helping others 🧑‍🏫💬**, because explaining things clearly is the best way to truly understand them 🧠✨
+
+Outside of code 💻➡️🌍, I’m a **Linux enthusiast 🐧❤️**, a fan of **films and TV shows 🎬🍿**, and yes — I firmly believe **cycle wale cholle kulche for ₹20 🌮🔥😄** deserve global recognition 🌍🏆
+
+Currently aiming for **full-time Software Engineer roles 🎯💼** in the next **6–12 months ⏳**, while continuing to **learn 📚, build 🛠️, and grow 🌱 every single day ✨🚀**
 
 <div align="center">
   <a href="https://ibb.co/zHGz3Mmd"><img src="https://i.ibb.co/HpnjcSKZ/Divider.png" alt="Divider" border="0"></a>
