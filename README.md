@@ -139,9 +139,11 @@ Currently aiming for **full-time Software Engineer roles 🎯💼** in the next 
   <a href="https://ibb.co/zHGz3Mmd"><img src="https://i.ibb.co/HpnjcSKZ/Divider.png" alt="Divider" border="0"></a>
 </div>
 
-## LeetCode Stats
+## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SharadChandel?theme=dark&font=Inter&colors=%23282a36%2C%2344475a%2C%23f8f8f2%2C%23ffffff%2C%23bd93f9%2C%23ff79c6%2C%2350fa7b%2C%23ffb86c&ext=heatmap)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/SharadChandel?theme=dark&font=Inter&colors=%23282a36%2C%2344475a%2C%23f8f8f2%2C%23ffffff%2C%23bd93f9%2C%23ff79c6%2C%2350fa7b%2C%23ffb86c&ext=heatmap" />
+</div>
 
 <div align="center">
   <a href="https://ibb.co/zHGz3Mmd"><img src="https://i.ibb.co/HpnjcSKZ/Divider.png" alt="Divider" border="0"></a>
