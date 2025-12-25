@@ -40,6 +40,12 @@
 
 ## ✨ About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="320"/>
+</div>
+
+<br/>
+
 I’m a software engineer who genuinely enjoys **building things 🏗️, breaking them 💥, and then figuring out why they broke 🧠🔍**
 
 I started coding because I always wanted to become a **software engineer 💻🚀**, and somewhere along the way, **curiosity 🤔 turned into a habit 🔁 and learning turned into a lifestyle 🌱📚**
