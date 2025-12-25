@@ -127,12 +127,12 @@ Currently aiming for **full-time Software Engineer roles 🎯💼** in the next 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharadJ19&show_icons=true&count_private=true&hide_border=true&theme=nightowl&bg_color=00000000&title_color=6366F1&icon_color=F59E0B&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharadJ19&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&title_color=6366F1&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SharadJ19&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00D9FF&icon_color=00FF87&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats" width="55%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SharadJ19&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="40%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharadJ19&theme=nightowl&bg_color=00000000&hide_border=true&area=true&color=6366F1&line=8B5CF6&point=F59E0B" alt="GitHub Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharadJ19&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true&color=00D9FF&line=00FF87&point=FFD700" alt="GitHub Activity Graph" width="90%" />
 </div>
 
 <div align="center">
