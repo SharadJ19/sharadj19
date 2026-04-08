@@ -118,11 +118,15 @@ Currently aiming for **full-time Software Engineer roles 🎯💼** in the next 
 ## 📄 Resumes
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Software_Engineer_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Software Engineer Resume"/>
+
+  <a href="https://drive.google.com/file/d/14UuJbtOslJrUlJnT87qYrNb4ILR_c9uh/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Software_Engineer-F59E0B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Software Engineer Resume"/>
   </a>
-  <a href="https://drive.google.com/file/d/1KpXb0k6AXP7qnvs4kZe0g6InFBeSQ7m0/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Backend_Engineer_Resume-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Backend Engineer Resume"/>
+  <a href="https://drive.google.com/file/d/1Q1Qzi2GawK0yNcW-d2rvjqJ-JHxS2woA/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Frontend_Engineer-06B6D4?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Backend Engineer Resume"/>
+  </a>
+   <a href="https://drive.google.com/file/d/1s_Rt660xHtWMNUzYOwxQqtNi29Hvxc2y/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Backend_Engineer-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Backend Engineer Resume"/>
   </a>
 </p>
 
@@ -178,14 +182,7 @@ Currently aiming for **full-time Software Engineer roles 🎯💼** in the next 
   <a href="https://leetcode.com/u/SharadChandel/">
     <img src="https://img.shields.io/badge/LeetCode_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
-  <a href="https://drive.google.com/file/d/1dCJIIOH9gPvlxkFvwZzT08Ottwi6IkwJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/SE_Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" />
-  </a>
-
-  <a href="https://drive.google.com/file/d/1KpXb0k6AXP7qnvs4kZe0g6InFBeSQ7m0/view?usp=sharing">
-    <img src="https://img.shields.io/badge/BE_Resume-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" />
-  </a>
+  
 </p>
 
 
