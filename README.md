@@ -63,7 +63,7 @@ I also genuinely enjoy **teaching and helping others 🧑‍🏫💬**, because 
 
 Outside of code 💻➡️🌍, I’m a **Linux enthusiast 🐧❤️**, a fan of **films and TV shows 🎬🍿**, and yes — I firmly believe **cycle wale cholle kulche for ₹20 🌮🔥😄** deserve global recognition 🌍🏆
 
-Currently aiming for **full-time Software Engineer roles 🎯💼** in the next **6–12 months ⏳**, while continuing to **learn 📚, build 🛠️, and grow 🌱 every single day ✨🚀**
+Currently aiming for **full-time Software Engineer roles 🎯💼** in the next **6 months ⏳**, while continuing to **learn 📚, build 🛠️, and grow 🌱 every single day ✨🚀**
 
 <div align="center">
   <a href="https://ibb.co/zHGz3Mmd"><img src="https://i.ibb.co/HpnjcSKZ/Divider.png" alt="Divider" border="0"></a>
@@ -89,8 +89,6 @@ Currently aiming for **full-time Software Engineer roles 🎯💼** in the next 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
@@ -98,13 +96,11 @@ Currently aiming for **full-time Software Engineer roles 🎯💼** in the next 
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -123,12 +119,7 @@ Currently aiming for **full-time Software Engineer roles 🎯💼** in the next 
   <a href="https://drive.google.com/file/d/14UuJbtOslJrUlJnT87qYrNb4ILR_c9uh/view?usp=sharing">
     <img src="https://img.shields.io/badge/Software_Engineer-F59E0B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Software Engineer Resume"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Q1Qzi2GawK0yNcW-d2rvjqJ-JHxS2woA/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Frontend_Engineer-06B6D4?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Backend Engineer Resume"/>
-  </a>
-   <a href="https://drive.google.com/file/d/1s_Rt660xHtWMNUzYOwxQqtNi29Hvxc2y/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Backend_Engineer-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Backend Engineer Resume"/>
-  </a>
+  
 </p>
 
 <div align="center">
