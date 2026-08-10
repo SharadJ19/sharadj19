@@ -61,14 +61,12 @@ Refer to the pinned repository for complete architecture diagrams, API documenta
 ## LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/SharadChandel?theme=dark&font=Inter&colors=%23282a36%2C%2344475a%2C%23f8f8f2%2C%23ffffff%2C%23bd93f9%2C%23ff79c6%2C%2350fa7b%2C%23ffb86c&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SharadChandel?theme=nord&colors=0f172a,1e293b,cbd5e1,ffffff,10b981,34d399,6ee7b7,059669&ext=heatmap" />
 </div>
 
 ---
 
 ![clouds](https://github.com/user-attachments/assets/46cc9a33-4f3d-4151-b856-24b81c91d391)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SharadJ19&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile views" />
